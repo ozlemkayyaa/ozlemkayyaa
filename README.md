@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özlem</h1>
 <h3 align="center">A passionate Mobile Developer from Turkey</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlemkayyaa&label=Profile%20views&color=0e75b6&style=flat" alt="ozlemkayyaa" /> </p>
