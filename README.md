@@ -1,4 +1,3 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/c8fb0597555319.5ec7b2f354ac2.jpg)
 <h1 align="center">Hi 👋, I'm Özlem</h1>
 <h3 align="center">I'm a Mobile Developer</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
