@@ -1,14 +1,11 @@
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/c8fb0597555319.5ec7b2f354ac2.jpg)
 <h1 align="center">Hi 👋, I'm Özlem</h1>
-<h3 align="center">A passionate Mobile Developer from Turkey</h3>
+<h3 align="center">I'm a Mobile Developer</h3>
 <img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlemkayyaa&label=Profile%20views&color=0e75b6&style=flat" alt="ozlemkayyaa" /> </p>
 
 - 🔭 I’m currently working on **mobile application with Flutter.**
 
 - 🌱 I’m currently learning **Flutter**
-
-- 📝 I regularly write articles on [https://medium.com/@ozlemkayaa](https://medium.com/@ozlemkayaa)
 
 - 💬 Ask me about **Flutter, JS, Python**
 
@@ -23,6 +20,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemkayyaa&show_icons=true&locale=en&layout=compact" alt="ozlemkayyaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozlemkayyaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="ozlemkayyaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemkayyaa&" alt="ozlemkayyaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemkayyaa&show_icons=true&theme=dark&locale=en" alt="ozlemkayyaa" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemkayyaa&theme=dark" alt="ozlemkayyaa" /></p>
+
