@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
 
-- 🌱 I’m currently learning **mobile app development with Flutter.**
+- 🌱 I’m currently learning **mobile app development with Flutter and React Native.**
 
-- 💬 Ask me about **Flutter, JS, Python**
+- 💬 Ask me about **Flutter and React Native.**
 
 - 📫 How to reach me **ozlemkayaa99@gmail.com**
 
