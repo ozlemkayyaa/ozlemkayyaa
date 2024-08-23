@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Özlem</h1>
 <h3 align="center">I'm a Mobile Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img align="right" alt="Coding" width="250" src="https://i.pinimg.com/originals/55/75/62/557562924e3c65554cb9e3c8f6ae6dcb.gif">
-
 - 🌱 I’m currently learning **mobile app development with Flutter and React Native.**
 
 - 💬 Ask me about **Flutter and React Native.**
