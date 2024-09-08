@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Özlem Kaya</h1>
+<h1 align="center">Hi 👋, I'm Özlem</h1>
 <h3 align="center">Flutter Developer</h3>
 
 - 🌱 I’m currently learning **mobile app development with Flutter and React Native.**
