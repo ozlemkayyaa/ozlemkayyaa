@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **mobile app development with Flutter and React Native.**
 
-- 📝 I regularly write articles on [https://medium.com/@ozlemkayaa](https://medium.com/@ozlemkayaa)
-
 - 💬 Ask me about **Flutter and React Native.**
 
 - 📫 How to reach me **ozlemkayaa99@gmail.com**
