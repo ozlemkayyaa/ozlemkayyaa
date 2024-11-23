@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Özlem</h1>
 <h3 align="center">Flutter Developer</h3>
 
-- 🌱 I’m currently learning **mobile app development with Flutter and React Native.**
+- 🌱 I’m currently learning **mobile app development with Flutter.**
 
-- 💬 Ask me about **Flutter and React Native.**
+- 💬 Ask me about **Flutter.**
 
 - 📫 How to reach me **ozlemkayaa99@gmail.com**
 
