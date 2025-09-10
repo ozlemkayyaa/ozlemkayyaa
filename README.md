@@ -1,14 +1,8 @@
 <h1 align="center">Hi 👋, I'm Özlem</h1>
 <h3 align="start">Flutter Developer</h3>
 
-- 🔭  I’m currently doing an internship at Neon Apps, developing mobile apps and honing my Flutter skills.
-
-- 🌱 Focused on mastering Flutter and exploring best practices for mobile app development.
-
-- 💬 You can ask me about Flutter, mobile app UI/UX design, and clean code principles.
-
-- ✈️ My dream is to travel the world while freelancing and writing code. 🌍💻
-
+- 👩‍💻 I’m a Flutter Developer at Neon Apps, passionate about building clean, scalable mobile apps.  
+- 🌱 Always learning best practices in Flutter and UI/UX.
 - 📫 How to reach me **ozlemkayaa99@gmail.com**
 
 <h3 align="left">Languages and Tools</h3>
