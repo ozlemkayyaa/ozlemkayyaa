@@ -17,16 +17,38 @@
 
 ### Flutter Developer
 
-- 🔭 I'm currently working on **Production Flutter apps and architecture-focused open-source projects.**
+<div align="left">
 
-- 🌱 I'm currently learning **Advanced Flutter architecture, testing and performance optimization.**
+<p>
+I enjoy building <strong>Flutter applications</strong> that don’t just work, but stay <strong>understandable</strong> and <strong>maintainable</strong> as they grow 🚀
+</p>
 
-- 👯 I'm looking to collaborate on **Flutter-based products where UX, performance and clean code matter.**
+<p>
+Most of my time goes into thinking about <strong>structure</strong> how a feature should live in the app, how <strong>state is managed</strong> without leaking complexity, and how today’s decisions shape the code months later.
+</p>
 
-- 🤝 I'm looking for help with **Scaling Flutter apps and improving error handling in production environments.**
+<p>
+🌱 I’m currently deepening my understanding of <strong>advanced Flutter architecture</strong>, testing strategies and <strong>performance optimization</strong>, especially in production.
+</p>
 
-- 💬 Ask me about **Flutter, Clean Architecture, BLoC/Cubit and Firebase.**
+<p>
+I enjoy collaborating on products where <strong>user experience</strong>, <strong>performance</strong> and <strong>clean code</strong> are treated as first-class concerns — not afterthoughts ✨
+</p>
 
-- 📫 How to reach me **ozlemkayaa99@gmail.com**
+<p>
+I’m especially interested in learning more about <strong>scaling Flutter apps</strong> and building <strong>reliable error-handling</strong> flows for real users, not just ideal scenarios.
+</p>
 
-- ⚡ Fun fact **I’m a cat person with two cats who often keep me company while coding 🐾**
+<p>
+💬 If you want to talk about <strong>Flutter</strong>, <strong>Clean Architecture</strong>, <strong>BLoC / Cubit</strong> or <strong>Firebase</strong>, feel free to reach out.
+</p>
+
+<p>
+📫 <strong>ozlemkayaa99@gmail.com</strong>
+</p>
+
+<p>
+<em>🐾 And yes — I usually code with two curious cats nearby.</em>
+</p>
+
+</div>
