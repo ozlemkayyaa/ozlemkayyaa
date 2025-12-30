@@ -18,7 +18,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/ozlemkayyaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ozlemkayyaa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/özlem-kaya-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="özlem-kaya-/" height="30" width="40" /></a>
 <a href="https://medium.com/@ozlemkayaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ozlemkayaa" height="30" width="40" /></a>
 </p>
