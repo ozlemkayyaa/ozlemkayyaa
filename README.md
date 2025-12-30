@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ozlem Kaya
+# Ozlem Kaya
 
 ### Flutter Developer
 
